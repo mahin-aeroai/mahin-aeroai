@@ -165,7 +165,7 @@ Designed and physically built a full drone detection system: sound sensor + ultr
 
 I'm open to **AI/ML engineering roles**, **LLM application development**, **research collaborations**, and **aerospace × AI projects**.
 
-📧 mahin.nandipa@gmail.com
+📧 mahin.nandipa@gmail.com |  m.nandipa@icloud.com
 
 ---
 
