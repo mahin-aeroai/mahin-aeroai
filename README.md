@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:003300,70:006600,100:001a00&height=220&section=header&text=MAHIN%20NANDIPA&fontSize=54&fontColor=00ff41&fontAlignY=36&fontAlign=50&desc=Aerospace%20Engineer%20%C3%97%20AI%2FML%20Specialist%20%C3%97%20SSA%20Platform%20Builder&descAlignY=58&descSize=16&descColor=39ff14&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050d1a,40:0a1628,70:0d1f3c,100:071020&height=220&section=header&text=MAHIN%20NANDIPA&fontSize=58&fontColor=00d4ff&fontAlignY=36&fontAlign=50&desc=ML%20%2F%20AI%20Engineer%20%C2%B7%20Aerospace%20Engineer%20%C2%B7%20SSA%20Platform%20Builder&descAlignY=58&descSize=17&descColor=7dd3fc&animation=fadeIn" />
 
 <!-- Profile Views + Social Proof -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=mahin-aeroai&color=f59e0b&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/mahin-aeroai?style=flat-square&color=6366f1&label=Followers&logo=github" />
-  <img src="https://img.shields.io/badge/Open_to_Work-AI%2FML_%26_Aerospace_AI-00ff41?style=flat-square&logo=briefcase&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=mahin-aeroai&color=00d4ff&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/mahin-aeroai?style=flat-square&color=00d4ff&label=Followers&logo=github" />
+  <img src="https://img.shields.io/badge/Open_to_Work-AI%2FML_%26_Aerospace_AI-0ea5e9?style=flat-square&logo=briefcase&logoColor=white" />
 </p>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%9B%B0%EF%B8%8F+Space+Situational+Awareness+%7C+SGP4+%7C+Conjunction+Analysis;%F0%9F%A7%A0+LLM+Fine-Tuning+%7C+RAG+Pipelines+%7C+PINN+Systems;%F0%9F%9A%80+Building+Open-Source+Aerospace+AI+Platforms;%F0%9F%8E%AF+%2B34pp+CodeBLEU+%7C+72%25+Absolute+%7C+IIITH+Capstone)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%9B%B0%EF%B8%8F+Space+Situational+Awareness+%7C+SGP4+%7C+Conjunction+Analysis;%F0%9F%A7%A0+LLM+Fine-Tuning+%7C+RAG+Pipelines+%7C+PINN+Systems;%F0%9F%9A%80+Building+Open-Source+Aerospace+AI+Platforms;%F0%9F%8E%AF+%2B34pp+CodeBLEU+%7C+72%25+Absolute+%7C+IIITH+Capstone)](https://git.io/typing-svg)
 
 <br/>
 
@@ -161,18 +161,18 @@ class MahinNandipa:
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahin-aeroai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff41&icon_color=39ff14&text_color=7dff7d" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahin-aeroai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=050d1a&title_color=00d4ff&icon_color=0ea5e9&text_color=7dd3fc" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahin-aeroai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00ff41&text_color=7dff7d" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahin-aeroai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=050d1a&title_color=00d4ff&text_color=7dd3fc" height="180"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahin-aeroai&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff41&fire=39ff14&currStreakLabel=00ff41" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahin-aeroai&theme=tokyonight&hide_border=true&background=050d1a&ring=00d4ff&fire=0ea5e9&currStreakLabel=00d4ff" />
 
 <br/><br/>
 
 <!-- Snake animation -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahin-aeroai&bg_color=0d1117&color=00ff41&line=39ff14&point=00ff41&area=true&hide_border=true&area_color=001a00" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahin-aeroai&bg_color=050d1a&color=00d4ff&line=0ea5e9&point=00d4ff&area=true&hide_border=true&area_color=071020" />
 
 </div>
 
@@ -182,7 +182,7 @@ class MahinNandipa:
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=mahin-aeroai&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C)
+![Trophies](https://github-profile-trophy.vercel.app/?username=mahin-aeroai&theme=nord&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15)
 
 </div>
 
