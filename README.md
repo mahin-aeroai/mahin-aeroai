@@ -1,22 +1,18 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://raw.githubusercontent.com/mahin-aeroai/mahin-aeroai/main/header.svg" alt="Mahin Nandipa — AI/ML Engineer · Aerospace Engineer · SSA Platform Builder" />
+<img width="100%" src="https://raw.githubusercontent.com/mahin-aeroai/mahin-aeroai/main/header.svg" alt="Mahin Nandipa — ML/AI Engineer · Aerospace Engineer · SSA Platform Builder" />
 
-<!-- Profile Views + Social Proof -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=mahin-aeroai&color=00d4ff&style=flat-square&label=Profile+Views" />
   <img src="https://img.shields.io/github/followers/mahin-aeroai?style=flat-square&color=00d4ff&label=Followers&logo=github" />
   <img src="https://img.shields.io/badge/Open_to_Work-AI%2FML_%26_Aerospace_AI-0ea5e9?style=flat-square&logo=briefcase&logoColor=white" />
 </p>
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%9B%B0%EF%B8%8F+Space+Situational+Awareness+%7C+SGP4+%7C+Conjunction+Analysis;%F0%9F%A7%A0+LLM+Fine-Tuning+%7C+RAG+Pipelines+%7C+PINN+Systems;%F0%9F%9A%80+Building+Open-Source+Aerospace+AI+Platforms;%F0%9F%8E%AF+%2B34pp+CodeBLEU+%7C+72%25+Absolute+%7C+IIITH+Capstone)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=800&lines=Building+ORBITIQ+Sentinel+V3+—+Mission+Ops+Center+%F0%9F%9B%B0%EF%B8%8F;LSTM+Autoencoder+%7C+F1%3D0.984+%7C+Spacecraft+Anomaly+Detection;SSA+Trilogy+%7C+SGP4+%7C+Conjunction+Analysis+%7C+Digital+Twin;LLM+Fine-Tuning+%7C+RAG+Pipelines+%7C+PINN+Systems;Aerospace+AI+Engineer+%7C+IIIT+Hyderabad+%7C+VIT+Bhopal)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Primary CTA Badges -->
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mahin--nandipa.netlify.app-22d3ee?style=for-the-badge&logoColor=white)](https://mahin-nandipa.netlify.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mahin--nandipa.netlify.app-00d4ff?style=for-the-badge)](https://mahin-nandipa.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahin-nandipa-58189b392)
 [![Email](https://img.shields.io/badge/Email-mahin.nandipa@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahin.nandipa@gmail.com)
 
@@ -26,37 +22,77 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30"/> &nbsp;About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28"/> &nbsp;About Me
 
 ```python
 class MahinNandipa:
     role        = "AI/ML Engineer × Aerospace Platform Builder"
+    currently   = "ORBITIQ Sentinel V3 — Full Mission Ops Center (Orbital Map · Digital Twin · Autonomous Recs)"
     education   = ["B.Tech Aerospace Eng · VIT Bhopal · CGPA 8.23",
                    "PG Cert AI/ML · IIIT Hyderabad × TalentSprint × Accenture"]
     location    = "Hyderabad, India 🇮🇳"
-    currently   = "ORBITIQ Sentinel V3 — Full Mission Ops Center (Orbital Map · Digital Twin · Autonomous Recs)"
     past        = "Acoustic anti-drone detection hardware @ Dautya Aerospace (11 months)"
     seeking     = ["GenAI / MLOps roles", "Aerospace AI research", "Defense-adjacent autonomy"]
     superpower  = "Bridging orbital mechanics + deep learning in the browser 🛰️"
+    achievement = "+34pp CodeBLEU · F1=0.984 anomaly detection · 14 open-source repos"
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛰️ SSA Trilogy — Flagship Aerospace AI Portfolio
+## 🛰️ ORBITIQ Sentinel V3 — Flagship ML × Aerospace Project
 
-> **Three interconnected Space Situational Awareness platforms** — real-time orbital tracking, space intelligence, and ops monitoring. All open-source, all browser-native, all live.
+> **Autonomous Mission Operations Center** — the most complete aerospace AI platform built by a single engineer. Combines real ML (LSTM Autoencoder, F1=0.984) with a full mission ops UI matching NASA/ESA/SpaceX aesthetics.
+
+<table>
+<tr>
+<td width="50%">
+
+**What it does:**
+- 🔴 **Live orbital map** — Earth with LEO/MEO/GEO shells, active satellites, debris, threat objects
+- 🧠 **LSTM Autoencoder** — trained on 18 telemetry params, F1=0.984, Precision=1.0
+- 🛸 **Digital twin** — spacecraft schematic with per-subsystem health + RUL
+- ⚠️ **Conjunction risk** — 4 live CDM cards with TCA, miss distance, Pc, maneuver recs
+- 🔮 **Predictive maintenance** — 3 components with failure probability and days-to-failure
+- 🧬 **Root cause SHAP** — causal chain from solar storm → battery degradation
+- 🤖 **Autonomous recommendations** — ranked action plans with confidence % and risk reduction
+
+</td>
+<td width="50%" align="center">
+
+[![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-ORBITIQ_Sentinel_V3-f97316?style=for-the-badge)](https://mahin-aeroai.github.io/ORBITIQ-Sentinel/)
+[![Repo](https://img.shields.io/badge/⭐_Repo-ORBITIQ--Sentinel-181717?style=for-the-badge&logo=github)](https://github.com/mahin-aeroai/ORBITIQ-Sentinel)
+
+**Model Performance**
+| Metric | Score |
+|--------|-------|
+| F1 Score | **0.984** |
+| Precision | **1.000** |
+| Recall | **0.968** |
+| PR-AUC | **1.000** |
+
+`PyTorch` `LSTM` `SHAP` `SGP4` `Chart.js` `Space Grotesk`
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🌌 SSA Trilogy — Space Situational Awareness Platforms
+
+> Three interconnected browser-native SSA platforms. All open-source, all live.
 
 <table>
 <tr>
 <td width="33%" align="center">
 
 ### 🔵 ORBITIQ Explorer v2
-**Real-time tracking · SGP4 · AI Copilot**
+**15 modules · SGP4 · AI Copilot**
 
-[![Live](https://img.shields.io/badge/🚀_LIVE_DEMO-22D3EE?style=for-the-badge)](https://mahin-aeroai.github.io/ORBITIQ-Explorer/)
+[![Live](https://img.shields.io/badge/🚀_LIVE-22D3EE?style=for-the-badge)](https://mahin-aeroai.github.io/ORBITIQ-Explorer/)
 [![Repo](https://img.shields.io/badge/⭐_Repo-181717?style=for-the-badge&logo=github)](https://github.com/mahin-aeroai/ORBITIQ-Explorer)
 
-15 modules · ISS/Starlink/NavIC · Conjunction screening · NOAA space weather · NASA NeoWS · 3D globe · Pass predictor (Hyderabad) · Claude AI Copilot
+ISS/Starlink/NavIC · Conjunction screening · NOAA space weather · NASA NeoWS · 3D globe · Pass predictor (Hyderabad) · Claude AI Copilot
 
 </td>
 <td width="33%" align="center">
@@ -64,7 +100,7 @@ class MahinNandipa:
 ### 🟣 ORBITIQ NEXUS
 **Apex SSA · Heatmap ring · Knowledge Graph**
 
-[![Live](https://img.shields.io/badge/🚀_LIVE_DEMO-6366F1?style=for-the-badge)](https://mahin-aeroai.github.io/ORBITIQ-NEXUS/)
+[![Live](https://img.shields.io/badge/🚀_LIVE-6366F1?style=for-the-badge)](https://mahin-aeroai.github.io/ORBITIQ-NEXUS/)
 [![Repo](https://img.shields.io/badge/⭐_Repo-181717?style=for-the-badge&logo=github)](https://github.com/mahin-aeroai/ORBITIQ-NEXUS)
 
 9 modules · Electric indigo design · Live orbital density heatmap · Cloudflare Worker API proxy · Knowledge Graph canvas
@@ -73,9 +109,9 @@ class MahinNandipa:
 <td width="33%" align="center">
 
 ### 🟡 ASTRA WATCH
-**Ops monitoring · ISS live · Chart.js dashboards**
+**Ops monitoring · ISS live · Dashboards**
 
-[![Live](https://img.shields.io/badge/🚀_LIVE_DEMO-F59E0B?style=for-the-badge)](https://mahin-aeroai.github.io/ASTRA-Watch/)
+[![Live](https://img.shields.io/badge/🚀_LIVE-F59E0B?style=for-the-badge)](https://mahin-aeroai.github.io/ASTRA-Watch/)
 [![Repo](https://img.shields.io/badge/⭐_Repo-181717?style=for-the-badge&logo=github)](https://github.com/mahin-aeroai/ASTRA-Watch)
 
 8 modules · Electric amber on ops navy · Live ISS position · Space weather · Debris density dashboards
@@ -88,17 +124,17 @@ class MahinNandipa:
 
 ## 🏗️ All Projects
 
-| # | Project | Description | Live Demo | Repo |
-|---|---------|-------------|-----------|------|
-| 🛰️ | **ORBITIQ Sentinel V3** | Mission Ops Center · LSTM Autoencoder F1=0.984 · Orbital map · Digital twin · Conjunction risk · Predictive maintenance · Root cause SHAP · Autonomous recommendations · Causal chain | [![Live](https://img.shields.io/badge/Live-f97316?style=flat-square)](https://mahin-aeroai.github.io/ORBITIQ-Sentinel/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/ORBITIQ-Sentinel) |
-| 🌌 | **ORBITAL NEXUS SSA** | Interactive SSA infographic · 10 sections · Space Grotesk · Tabler icons · Full ops stack from sensors to maneuver | [![Live](https://img.shields.io/badge/Live-22D3EE?style=flat-square)](https://mahin-aeroai.github.io/ORBITAL-NEXUS-SSA/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/ORBITAL-NEXUS-SSA) |
-| 🗄️ | **AeroIntel DB** | 603-platform India aerospace intelligence DB · Wikipedia REST API · AI offline fallback · Single-file HTML | [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat-square)](https://mahin-aeroai.github.io/aerointel/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/aerointel) |
-| 🌐 | **Space Data Intelligence Hub** | 24-module educational SPA · Two-phase architecture · Inline SVGs · Orbital mechanics to mission design | [![Live](https://img.shields.io/badge/Live-8B5CF6?style=flat-square)](https://mahin-aeroai.github.io/space-data-intelligence-hub/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/space-data-intelligence-hub) |
-| 🛡️ | **Anti-Drone PINN** | Physics-Informed Neural Network · 2D wave eq · Fourier features · FFT/STFT · Streamlit dashboard | [![Live](https://img.shields.io/badge/Live-FF4B4B?style=flat-square)](https://mahin-aeroai-anti-drone-pinn.streamlit.app) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/anti-drone-pinn) |
-| 🏭 | **AeroLens** | India aerospace ERP · 87 companies · .NET 8 API (60+ endpoints) · Bootstrap 5 · Oracle DDL | [![Live](https://img.shields.io/badge/Live-22C55E?style=flat-square)](https://mahin-aeroai.github.io/AeroLens/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/AeroLens) |
-| 🧠 | **CodeGen RAG** | +34pp CodeBLEU · LoRA r=16 · FAISS · codegen-350M · IIITH PGCP Capstone Group 39 | — | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/CodeGen) |
-| 🤖 | **BI Copilot** | NL→SQL→Chart→Insight · Schema-aware RAG · +33pp over baseline · FastAPI + Streamlit | — | Private |
-| 🧾 | **SignERP v2** | Single-file ERP · Soft signage & LED fabrication · Costing, quoting, production mgmt | [![Live](https://img.shields.io/badge/Live-F59E0B?style=flat-square)](https://mahin-aeroai.github.io/Costing-ERP/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/Costing-ERP) |
+| Project | Description | Live | Repo |
+|---------|-------------|------|------|
+| 🛰️ **ORBITIQ Sentinel V3** | Mission Ops Center · LSTM Autoencoder F1=0.984 · Orbital map · Digital twin · Conjunction risk · Predictive maintenance · Root cause SHAP · Autonomous recommendations | [![Live](https://img.shields.io/badge/Live-f97316?style=flat-square)](https://mahin-aeroai.github.io/ORBITIQ-Sentinel/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/ORBITIQ-Sentinel) |
+| 🌌 **ORBITAL NEXUS SSA** | Interactive SSA infographic · 10 sections · Full ops stack from sensors → SGP4 → Alfano/Foster Pc → maneuver decisions | [![Live](https://img.shields.io/badge/Live-22D3EE?style=flat-square)](https://mahin-aeroai.github.io/ORBITAL-NEXUS-SSA/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/ORBITAL-NEXUS-SSA) |
+| 🗄️ **AeroIntel DB** | 603-platform India aerospace intelligence DB · Wikipedia REST API · AI offline fallback · Single-file HTML | [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat-square)](https://mahin-aeroai.github.io/aerointel/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/aerointel) |
+| 🌐 **Space Data Intelligence Hub** | 24-module educational SPA · Two-phase architecture · Inline SVGs · Orbital mechanics to mission design | [![Live](https://img.shields.io/badge/Live-8B5CF6?style=flat-square)](https://mahin-aeroai.github.io/space-data-intelligence-hub/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/space-data-intelligence-hub) |
+| 🛡️ **Anti-Drone PINN** | Physics-Informed Neural Network · 2D wave equation · Fourier features · FFT/STFT · Streamlit dashboard | [![Live](https://img.shields.io/badge/Live-FF4B4B?style=flat-square)](https://mahin-aeroai-anti-drone-pinn.streamlit.app) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/anti-drone-pinn) |
+| 🏭 **AeroLens** | India aerospace ERP · 87 companies · .NET 8 API (60+ endpoints) · Bootstrap 5 · Oracle DDL | [![Live](https://img.shields.io/badge/Live-22C55E?style=flat-square)](https://mahin-aeroai.github.io/AeroLens/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/AeroLens) |
+| 🧠 **CodeGen RAG** | +34pp CodeBLEU (38%→72%) · LoRA r=16 · FAISS · codegen-350M · IIITH PGCP Capstone Group 39 | — | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/CodeGen) |
+| 🤖 **BI Copilot** | NL→SQL→Chart→Insight · Schema-aware RAG · +33pp over baseline · FastAPI + Streamlit | — | Private |
+| 🧾 **SignERP v2** | Single-file ERP · Soft signage & LED fabrication · Costing, quoting, production management | [![Live](https://img.shields.io/badge/Live-F59E0B?style=flat-square)](https://mahin-aeroai.github.io/Costing-ERP/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/Costing-ERP) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -106,23 +142,25 @@ class MahinNandipa:
 
 <div align="center">
 
-### 🤖 AI / ML Core
+### 🤖 AI / ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-0053D6?style=for-the-badge)
 ![LoRA/PEFT](https://img.shields.io/badge/LoRA%2FPEFT-7B2FBE?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LSTM](https://img.shields.io/badge/LSTM_Autoencoder-EE4C2C?style=for-the-badge)
+![SHAP](https://img.shields.io/badge/SHAP_Explainability-FF6F00?style=for-the-badge)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ### 🌌 Aerospace AI & SSA
-![SGP4](https://img.shields.io/badge/SGP4_Propagation-22D3EE?style=for-the-badge)
+![SGP4](https://img.shields.io/badge/SGP4_Propagation-00d4ff?style=for-the-badge)
 ![satellite.js](https://img.shields.io/badge/satellite.js-0F172A?style=for-the-badge)
+![Digital Twin](https://img.shields.io/badge/Spacecraft_Digital_Twin-6366f1?style=for-the-badge)
+![PINN](https://img.shields.io/badge/Physics_Informed_NN-EE4C2C?style=for-the-badge)
 ![Space-Track](https://img.shields.io/badge/Space--Track.org-1E3A5F?style=for-the-badge)
 ![NOAA](https://img.shields.io/badge/NOAA_Space_Weather-0077B5?style=for-the-badge)
 ![NASA NeoWS](https://img.shields.io/badge/NASA_NeoWS-0B3D91?style=for-the-badge)
-![PINN](https://img.shields.io/badge/Physics_Informed_NN-EE4C2C?style=for-the-badge)
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ### 🚀 Deploy / Infra
@@ -172,7 +210,6 @@ class MahinNandipa:
 
 <br/><br/>
 
-<!-- Snake animation -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahin-aeroai&bg_color=050d1a&color=00d4ff&line=0ea5e9&point=00d4ff&area=true&hide_border=true&area_color=071020" />
 
 </div>
@@ -193,7 +230,7 @@ class MahinNandipa:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mahin--nandipa.netlify.app-22d3ee?style=for-the-badge)](https://mahin-nandipa.netlify.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mahin--nandipa.netlify.app-00d4ff?style=for-the-badge)](https://mahin-nandipa.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahin-nandipa-58189b392)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mahin.nandipa)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mahinnandipa3049)
@@ -207,6 +244,6 @@ class MahinNandipa:
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,30:006600,60:003300,100:000000&height=130&section=footer&text=The+sky+is+not+the+limit+%E2%80%94+it%27s+just+the+beginning+%F0%9F%9A%80&fontSize=16&fontColor=ff4d00&fontAlignY=62&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071020,40:0d1f3c,70:0a1628,100:050d1a&height=120&section=footer&text=The+sky+is+not+the+limit+%E2%80%94+it%27s+just+the+beginning+%F0%9F%9A%80&fontSize=15&fontColor=00d4ff&fontAlignY=62&animation=fadeIn" />
 
 </div>
