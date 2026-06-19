@@ -178,11 +178,11 @@ class MahinNandipa:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 Achievements
+## 🏆 Achievement Matrix
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=mahin-aeroai&theme=nord&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15)
+<img src="https://raw.githubusercontent.com/mahin-aeroai/mahin-aeroai/main/achievements.svg" width="100%" alt="Mahin Nandipa Achievement Matrix" />
 
 </div>
 
