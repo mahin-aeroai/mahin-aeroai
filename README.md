@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,30:6b21a8,60:c2410c,100:1c0a00&height=220&section=header&text=Mahin%20Nandipa&fontSize=54&fontColor=fbbf24&fontAlignY=36&fontAlign=50&desc=Aerospace%20Engineer%20%C3%97%20AI%2FML%20Specialist%20%C3%97%20SSA%20Platform%20Builder&descAlignY=58&descSize=16&descColor=f5d0a9&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,30:6b21a8,60:c2410c,100:1c0a00&height=220&section=header&text=Mahin%20Nandipa&fontSize=54&fontColor=ff4d00&fontAlignY=36&fontAlign=50&desc=Aerospace%20Engineer%20%C3%97%20AI%2FML%20Specialist%20%C3%97%20SSA%20Platform%20Builder&descAlignY=58&descSize=16&descColor=e2e8f0&animation=fadeIn" />
 
 <!-- Profile Views + Social Proof -->
 <p>
@@ -11,7 +11,7 @@
 </p>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FBBF24&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%9B%B0%EF%B8%8F+Space+Situational+Awareness+%7C+SGP4+%7C+Conjunction+Analysis;%F0%9F%A7%A0+LLM+Fine-Tuning+%7C+RAG+Pipelines+%7C+PINN+Systems;%F0%9F%9A%80+Building+Open-Source+Aerospace+AI+Platforms;%F0%9F%8E%AF+%2B34pp+CodeBLEU+%7C+72%25+Absolute+%7C+IIITH+Capstone)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF4D00&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%9B%B0%EF%B8%8F+Space+Situational+Awareness+%7C+SGP4+%7C+Conjunction+Analysis;%F0%9F%A7%A0+LLM+Fine-Tuning+%7C+RAG+Pipelines+%7C+PINN+Systems;%F0%9F%9A%80+Building+Open-Source+Aerospace+AI+Platforms;%F0%9F%8E%AF+%2B34pp+CodeBLEU+%7C+72%25+Absolute+%7C+IIITH+Capstone)](https://git.io/typing-svg)
 
 <br/>
 
@@ -172,11 +172,7 @@ class MahinNandipa:
 <br/><br/>
 
 <!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahin-aeroai/mahin-aeroai/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahin-aeroai/mahin-aeroai/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mahin-aeroai/mahin-aeroai/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahin-aeroai&bg_color=0d1117&color=ff4d00&line=f97316&point=fbbf24&area=true&hide_border=true&area_color=1c0a00" />
 
 </div>
 
@@ -186,7 +182,9 @@ class MahinNandipa:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mahin-aeroai&theme=onedark&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=mahin-aeroai&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=6" />
+</a>
 
 </div>
 
@@ -210,6 +208,6 @@ class MahinNandipa:
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1c0a00,40:c2410c,70:6b21a8,100:1a0533&height=130&section=footer&text=The+sky+is+not+the+limit+%E2%80%94+it%27s+just+the+beginning+%F0%9F%9A%80&fontSize=16&fontColor=fbbf24&fontAlignY=62&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1c0a00,40:c2410c,70:6b21a8,100:1a0533&height=130&section=footer&text=The+sky+is+not+the+limit+%E2%80%94+it%27s+just+the+beginning+%F0%9F%9A%80&fontSize=16&fontColor=ff4d00&fontAlignY=62&animation=fadeIn" />
 
 </div>
