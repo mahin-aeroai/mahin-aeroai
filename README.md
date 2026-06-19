@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050d1a,40:0a1628,70:0d1f3c,100:071020&height=220&section=header&text=MAHIN%20NANDIPA&fontSize=58&fontColor=00d4ff&fontAlignY=36&fontAlign=50&desc=ML%20%2F%20AI%20Engineer%20%C2%B7%20Aerospace%20Engineer%20%C2%B7%20SSA%20Platform%20Builder&descAlignY=58&descSize=17&descColor=7dd3fc&animation=fadeIn" />
+<img width="100%" src="https://raw.githubusercontent.com/mahin-aeroai/mahin-aeroai/main/header.svg" alt="Mahin Nandipa — AI/ML Engineer · Aerospace Engineer · SSA Platform Builder" />
 
 <!-- Profile Views + Social Proof -->
 <p>
