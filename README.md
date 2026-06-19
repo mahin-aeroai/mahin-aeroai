@@ -7,7 +7,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=mahin-aeroai&color=f59e0b&style=flat-square&label=Profile+Views" />
   <img src="https://img.shields.io/github/followers/mahin-aeroai?style=flat-square&color=6366f1&label=Followers&logo=github" />
-  <img src="https://img.shields.io/badge/Open_to_Work-AI%2FML_%26_Aerospace_AI-22c55e?style=flat-square&logo=briefcase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_to_Work-AI%2FML_%26_Aerospace_AI-00ff41?style=flat-square&logo=briefcase&logoColor=white" />
 </p>
 
 <!-- Typing Animation -->
@@ -206,6 +206,6 @@ class MahinNandipa:
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1c0a00,40:c2410c,70:6b21a8,100:1a0533&height=130&section=footer&text=The+sky+is+not+the+limit+%E2%80%94+it%27s+just+the+beginning+%F0%9F%9A%80&fontSize=16&fontColor=ff4d00&fontAlignY=62&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,30:006600,60:003300,100:000000&height=130&section=footer&text=The+sky+is+not+the+limit+%E2%80%94+it%27s+just+the+beginning+%F0%9F%9A%80&fontSize=16&fontColor=ff4d00&fontAlignY=62&animation=fadeIn" />
 
 </div>
