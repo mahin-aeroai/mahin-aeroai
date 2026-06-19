@@ -34,7 +34,7 @@ class MahinNandipa:
     education   = ["B.Tech Aerospace Eng · VIT Bhopal · CGPA 8.23",
                    "PG Cert AI/ML · IIIT Hyderabad × TalentSprint × Accenture"]
     location    = "Hyderabad, India 🇮🇳"
-    currently   = "Building the SSA Trilogy — ORBITIQ Explorer v2, NEXUS, ASTRA WATCH"
+    currently   = "Building ORBITIQ Sentinel — Spacecraft Telemetry Anomaly Detection (LSTM · F1=0.984)"
     past        = "Acoustic anti-drone detection hardware @ Dautya Aerospace (11 months)"
     seeking     = ["GenAI / MLOps roles", "Aerospace AI research", "Defense-adjacent autonomy"]
     superpower  = "Bridging orbital mechanics + deep learning in the browser 🛰️"
@@ -90,6 +90,7 @@ class MahinNandipa:
 
 | # | Project | Description | Live Demo | Repo |
 |---|---------|-------------|-----------|------|
+| 🛰️ | **ORBITIQ Sentinel** | Autonomous spacecraft telemetry anomaly detection · LSTM Autoencoder · F1=0.984 · 18 params · 5 subsystems · Ops log · Failure modes | [![Live](https://img.shields.io/badge/Live-f97316?style=flat-square)](https://mahin-aeroai.github.io/ORBITIQ-Sentinel/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/ORBITIQ-Sentinel) |
 | 🌌 | **ORBITAL NEXUS SSA** | Interactive SSA infographic · 10 sections · Space Grotesk · Tabler icons · Full ops stack from sensors to maneuver | [![Live](https://img.shields.io/badge/Live-22D3EE?style=flat-square)](https://mahin-aeroai.github.io/ORBITAL-NEXUS-SSA/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/ORBITAL-NEXUS-SSA) |
 | 🗄️ | **AeroIntel DB** | 603-platform India aerospace intelligence DB · Wikipedia REST API · AI offline fallback · Single-file HTML | [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat-square)](https://mahin-aeroai.github.io/aerointel/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/aerointel) |
 | 🌐 | **Space Data Intelligence Hub** | 24-module educational SPA · Two-phase architecture · Inline SVGs · Orbital mechanics to mission design | [![Live](https://img.shields.io/badge/Live-8B5CF6?style=flat-square)](https://mahin-aeroai.github.io/space-data-intelligence-hub/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/space-data-intelligence-hub) |
