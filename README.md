@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,30:6b21a8,60:c2410c,100:1c0a00&height=220&section=header&text=Mahin%20Nandipa&fontSize=54&fontColor=ff4d00&fontAlignY=36&fontAlign=50&desc=Aerospace%20Engineer%20%C3%97%20AI%2FML%20Specialist%20%C3%97%20SSA%20Platform%20Builder&descAlignY=58&descSize=16&descColor=e2e8f0&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:003300,70:006600,100:001a00&height=220&section=header&text=MAHIN%20NANDIPA&fontSize=54&fontColor=00ff41&fontAlignY=36&fontAlign=50&desc=Aerospace%20Engineer%20%C3%97%20AI%2FML%20Specialist%20%C3%97%20SSA%20Platform%20Builder&descAlignY=58&descSize=16&descColor=39ff14&animation=twinkling" />
 
 <!-- Profile Views + Social Proof -->
 <p>
@@ -11,7 +11,7 @@
 </p>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FF4D00&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%9B%B0%EF%B8%8F+Space+Situational+Awareness+%7C+SGP4+%7C+Conjunction+Analysis;%F0%9F%A7%A0+LLM+Fine-Tuning+%7C+RAG+Pipelines+%7C+PINN+Systems;%F0%9F%9A%80+Building+Open-Source+Aerospace+AI+Platforms;%F0%9F%8E%AF+%2B34pp+CodeBLEU+%7C+72%25+Absolute+%7C+IIITH+Capstone)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%9B%B0%EF%B8%8F+Space+Situational+Awareness+%7C+SGP4+%7C+Conjunction+Analysis;%F0%9F%A7%A0+LLM+Fine-Tuning+%7C+RAG+Pipelines+%7C+PINN+Systems;%F0%9F%9A%80+Building+Open-Source+Aerospace+AI+Platforms;%F0%9F%8E%AF+%2B34pp+CodeBLEU+%7C+72%25+Absolute+%7C+IIITH+Capstone)](https://git.io/typing-svg)
 
 <br/>
 
@@ -161,30 +161,28 @@ class MahinNandipa:
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahin-aeroai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=fbbf24&icon_color=f97316&text_color=94a3b8" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahin-aeroai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff41&icon_color=39ff14&text_color=7dff7d" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahin-aeroai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=fbbf24&text_color=94a3b8" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahin-aeroai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00ff41&text_color=7dff7d" height="180"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahin-aeroai&theme=tokyonight&hide_border=true&background=0d1117&ring=fbbf24&fire=f97316&currStreakLabel=fbbf24" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahin-aeroai&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff41&fire=39ff14&currStreakLabel=00ff41" />
 
 <br/><br/>
 
 <!-- Snake animation -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahin-aeroai&bg_color=0d1117&color=ff4d00&line=f97316&point=fbbf24&area=true&hide_border=true&area_color=1c0a00" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahin-aeroai&bg_color=0d1117&color=00ff41&line=39ff14&point=00ff41&area=true&hide_border=true&area_color=001a00" />
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=mahin-aeroai&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=6" />
-</a>
+![Trophies](https://github-profile-trophy.vercel.app/?username=mahin-aeroai&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C)
 
 </div>
 
