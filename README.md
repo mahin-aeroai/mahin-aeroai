@@ -1,20 +1,21 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/mahin-aeroai/mahin-aeroai/main/header.svg" alt="Mahin Nandipa — ML/AI Engineer · Aerospace Engineer · SSA Platform Builder" />
+<img width="100%" src="https://raw.githubusercontent.com/mahin-aeroai/mahin-aeroai/main/header.svg" alt="Mahin Nandipa — ML/AI Engineer · Aerospace Engineer · Aerospace Foundation Model Builder" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=mahin-aeroai&color=00d4ff&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/mahin-aeroai?style=flat-square&color=00d4ff&label=Followers&logo=github" />
-  <img src="https://img.shields.io/badge/Open_to_Work-AI%2FML_%26_Aerospace_AI-0ea5e9?style=flat-square&logo=briefcase&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=mahin-aeroai&color=6366f1&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/mahin-aeroai?style=flat-square&color=6366f1&label=Followers&logo=github" />
+  <img src="https://img.shields.io/badge/Open_to_Work-AI%2FML_%26_Aerospace_AI-6366f1?style=flat-square&logo=briefcase&logoColor=white" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=800&lines=Building+ORBITIQ+Sentinel+V3+—+Mission+Ops+Center+%F0%9F%9B%B0%EF%B8%8F;LSTM+Autoencoder+%7C+F1%3D0.984+%7C+Spacecraft+Anomaly+Detection;SSA+Trilogy+%7C+SGP4+%7C+Conjunction+Analysis+%7C+Digital+Twin;LLM+Fine-Tuning+%7C+RAG+Pipelines+%7C+PINN+Systems;Aerospace+AI+Engineer+%7C+IIIT+Hyderabad+%7C+VIT+Bhopal)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=860&lines=Building+ORBITIQ-X+—+The+Aerospace+Foundation+Model+🛰️;SGP4+%7C+Foster+Pc+%7C+LangGraph+7-Agent+%7C+BGE-M3+RAG+%7C+Neo4j+KG;Orbital+Mechanics+×+AI+×+Knowledge+Graphs+×+Digital+Twins;LSTM+Autoencoder+F1%3D0.984+%7C+%2B34pp+CodeBLEU+%7C+50K+Object+SSA;Aerospace+AI+Engineer+%7C+IIIT+Hyderabad+%7C+VIT+Bhopal)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mahin--nandipa.netlify.app-00d4ff?style=for-the-badge)](https://mahin-nandipa.netlify.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mahin--nandipa.netlify.app-6366f1?style=for-the-badge)](https://mahin-nandipa.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahin-nandipa-58189b392)
-[![Email](https://img.shields.io/badge/Email-mahin.nandipa@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahin.nandipa@gmail.com)
+[![ORBITIQ-X](https://img.shields.io/badge/⭐_ORBITIQ--X-Aerospace_Foundation_Model-6366f1?style=for-the-badge&logo=github)](https://github.com/mahin-aeroai/ORBITIQ-X)
+[![Email](https://img.shields.io/badge/Email-m.nandipa@icloud.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.nandipa@icloud.com)
 
 </div>
 
@@ -26,30 +27,106 @@
 
 ```python
 class MahinNandipa:
-    role        = "AI/ML Engineer × Aerospace Platform Builder"
-    currently   = "ORBITIQ Sentinel V3 — Full Mission Ops Center (Orbital Map · Digital Twin · Autonomous Recs)"
+    role        = "AI/ML Engineer × Aerospace Foundation Model Builder"
+    flagship    = "ORBITIQ-X — The Aerospace Foundation Model"
+    what        = """
+        Vertically integrated AI reasoning system for Earth orbit intelligence.
+        Fuses orbital mechanics · knowledge graphs · agentic AI · digital twins.
+        7-layer stack: SGP4 engine → Neo4j KG → BGE-M3 RAG → LangGraph 7-agent system.
+        50,000+ tracked objects · Foster Pc conjunction screening · Re-entry monitoring.
+    """
     education   = ["B.Tech Aerospace Eng · VIT Bhopal · CGPA 8.23",
                    "PG Cert AI/ML · IIIT Hyderabad × TalentSprint × Accenture"]
     location    = "Hyderabad, India 🇮🇳"
     past        = "Acoustic anti-drone detection hardware @ Dautya Aerospace (11 months)"
     seeking     = ["GenAI / MLOps roles", "Aerospace AI research", "Defense-adjacent autonomy"]
-    superpower  = "Bridging orbital mechanics + deep learning in the browser 🛰️"
-    achievement = "+34pp CodeBLEU · F1=0.984 anomaly detection · 14 open-source repos"
+    superpower  = "Converging orbital mechanics + deep learning + agentic AI 🛰️"
+    verified    = ["+34pp CodeBLEU (38%→72%) via LoRA r=16 + FAISS",
+                   "F1=0.984 LSTM Autoencoder on spacecraft telemetry",
+                   "50K-object conjunction screener · Foster Pc · 3-layer hallucination guard"]
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛰️ ORBITIQ Sentinel V3 — Flagship ML × Aerospace Project
+## 🌌 ORBITIQ-X — The Aerospace Foundation Model
 
-> **Autonomous Mission Operations Center** — the most complete aerospace AI platform built by a single engineer. Combines real ML (LSTM Autoencoder, F1=0.984) with a full mission ops UI matching NASA/ESA/SpaceX aesthetics.
+> **The world's first vertically integrated AI reasoning system for Earth orbit.** Not a dashboard. Not a chatbot. A full aerospace intelligence platform that converges orbital mechanics, knowledge graphs, multi-agent AI, and a living digital twin into a single coherent system.
+
+<table>
+<tr>
+<td width="55%">
+
+**What ORBITIQ-X is:**
+
+- 🧠 **Aerospace Foundation Model** — the first AI system designed from the ground up for space operations intelligence, not adapted from a general-purpose tool
+- 🛰️ **Digital Twin of Earth Orbit** — 50K+ tracked objects, SGP4/SDP4 propagation, live TLE feeds (2h refresh), conjunction risk layer, orbital density heatmap
+- 🔗 **Aerospace Knowledge Graph** — Neo4j, 13 node types (Satellite · Orbit · Mission · LaunchVehicle · Conjunction · Debris · SpaceWeatherEvent · ResearchPaper + 6 more), 40+ relationship types, projected 10M nodes
+- 📚 **Physics-grounded RAG** — BGE-M3 1024-dim + SPLADE hybrid search over NASA/ESA/ISRO corpus, HyDE query expansion, 3-layer hallucination guard (NLI entailment + numeric verification + uncertainty surfacing)
+- 🤖 **7-Agent LangGraph System** — Orbital Dynamics · Conjunction Analysis · Space Debris · Mission Planning · Space Weather · Aerospace Research · Satellite Intelligence — all running in parallel with a shared typed state and safety gate
+- 🛡️ **Safety-first design** — Maneuver gate (ΔV > 10 m/s requires human sign-off), Pc ≥ 1e-3 external alert, re-entry escalation, space weather gate (Kp > 5)
+
+</td>
+<td width="45%" align="center">
+
+[![Repo](https://img.shields.io/badge/⭐_ORBITIQ--X_Repo-181717?style=for-the-badge&logo=github)](https://github.com/mahin-aeroai/ORBITIQ-X)
+
+**Architecture at a glance**
+
+| Layer | Technology |
+|-------|-----------|
+| Orbital engine | python-sgp4 · Poliastro · SciPy RK78 |
+| Knowledge graph | Neo4j 5.x · GDS · 13-node ontology |
+| RAG system | BGE-M3 · Qdrant · BGE-Reranker-v2 |
+| Agents | LangGraph · Claude Sonnet · 7 agents |
+| Safety | Custom SafetyGate · 5 control layers |
+| Frontend | Next.js 14 · Cesium/Resium · FastAPI |
+| Storage | PostgreSQL · Redis · InfluxDB · MinIO |
+| DevOps | Docker Compose · Prometheus · Grafana |
+
+**Scale targets**
+
+| Metric | Value |
+|--------|-------|
+| Tracked objects | 50K → 100K |
+| KG nodes | 10M+ |
+| RAG faithfulness | ≥ 0.90 |
+| Screening cycle | 15min → real-time |
+| Agent response | < 3s (GPU target) |
+
+`python-sgp4` `Neo4j` `Qdrant` `BGE-M3` `LangGraph` `Claude` `FastAPI` `Next.js` `Cesium`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🔬 ORBITIQ-X Technical Depth — click to expand</b></summary>
+
+<br/>
+
+**Orbital Engine** — Production-grade SGP4/SDP4 propagator with J2 correction, WGS-84 coordinate transforms (ECI ↔ ECEF ↔ GEO ↔ LVLH ↔ TEME), full orbit classifier (LEO/SSO/MEO/GEO/HEO/GTO/VLEO/TLI/DSO), two-stage conjunction screener (voxel hash O(n) spatial filter → Foster 2001 Pc), Clohessy-Wiltshire relative motion with two-impulse rendezvous, re-entry monitor (King-Hele drag + NRLMSISE-00 lookup), TLE parser with checksum and field validation.
+
+**Aerospace RAG** — 7 source types (PDF/HTML/LaTeX/DOCX): NASA mission reports, ESA documents, ISRO technical reports, research papers, debris studies, orbital mechanics textbooks, operator manuals. Aerospace-aware chunker (equations + tables as standalone chunks, sentence-boundary protection for "Eq. (3.14)", "Fig. 4"). BGE-M3 1024-dim dense + SPLADE sparse named vectors in Qdrant. HyDE hypothetical document expansion. Hallucination mitigation: DeBERTa NLI entailment, ±10% numeric verification, [UNCERTAIN] marker surfacing. IEEE inline citations, full bibliography.
+
+**LangGraph Agents** — OrbitalState TypedDict with annotated list reducers for parallel-safe writes. Supervisor: Claude-based 10-category intent classifier → deterministic ROUTING_TABLE. 28 tools across 7 agents, all async/timeout-bounded. Safety gate: 5 layers (maneuver gate · re-entry escalation · collision escalation · space weather gate · data quality gate). SSE streaming for real-time agent activity.
+
+**Knowledge Graph** — All constraint and index DDL idempotent (IF NOT EXISTS). Three index strategies: range (altitude, Pc, dates), fulltext (names, abstracts), vector (1536-dim cosine HNSW, for GraphRAG ANN). GraphRAG: hybrid Cypher + vector retrieval, merged into single context block. 14 example aerospace intelligence Cypher queries including GDS PageRank and community detection.
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🛰️ ORBITIQ Sentinel V3 — Mission Ops Center
+
+> **Autonomous Mission Operations Center** — Full ML × Aerospace platform. LSTM Autoencoder (F1=0.984) on spacecraft telemetry, live orbital map, SHAP root cause analysis, autonomous maintenance recommendations.
 
 <table>
 <tr>
 <td width="50%">
 
-**What it does:**
+**Capabilities:**
 - 🔴 **Live orbital map** — Earth with LEO/MEO/GEO shells, active satellites, debris, threat objects
-- 🧠 **LSTM Autoencoder** — trained on 18 telemetry params, F1=0.984, Precision=1.0
+- 🧠 **LSTM Autoencoder** — 18 telemetry params · F1=0.984 · Precision=1.0 · PR-AUC=1.0
 - 🛸 **Digital twin** — spacecraft schematic with per-subsystem health + RUL
 - ⚠️ **Conjunction risk** — 4 live CDM cards with TCA, miss distance, Pc, maneuver recs
 - 🔮 **Predictive maintenance** — 3 components with failure probability and days-to-failure
@@ -126,6 +203,7 @@ ISS/Starlink/NavIC · Conjunction screening · NOAA space weather · NASA NeoWS 
 
 | Project | Description | Live | Repo |
 |---------|-------------|------|------|
+| 🌌 **ORBITIQ-X** | **Aerospace Foundation Model** · 7-layer stack · SGP4 orbital engine · Neo4j KG (13 nodes) · BGE-M3 RAG (Qdrant hybrid) · LangGraph 7-agent system · Safety gate · Digital Twin of Earth Orbit · 50K object capacity | — | [![Repo](https://img.shields.io/badge/Repo-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/mahin-aeroai/ORBITIQ-X) |
 | 🛰️ **ORBITIQ Sentinel V3** | Mission Ops Center · LSTM Autoencoder F1=0.984 · Orbital map · Digital twin · Conjunction risk · Predictive maintenance · Root cause SHAP · Autonomous recommendations | [![Live](https://img.shields.io/badge/Live-f97316?style=flat-square)](https://mahin-aeroai.github.io/ORBITIQ-Sentinel/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/ORBITIQ-Sentinel) |
 | 🌌 **ORBITAL NEXUS SSA** | Interactive SSA infographic · 10 sections · Full ops stack from sensors → SGP4 → Alfano/Foster Pc → maneuver decisions | [![Live](https://img.shields.io/badge/Live-22D3EE?style=flat-square)](https://mahin-aeroai.github.io/ORBITAL-NEXUS-SSA/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/ORBITAL-NEXUS-SSA) |
 | 🗄️ **AeroIntel DB** | 603-platform India aerospace intelligence DB · Wikipedia REST API · AI offline fallback · Single-file HTML | [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat-square)](https://mahin-aeroai.github.io/aerointel/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/aerointel) |
@@ -142,36 +220,47 @@ ISS/Starlink/NavIC · Conjunction screening · NOAA space weather · NASA NeoWS 
 
 <div align="center">
 
-### 🤖 AI / ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-0053D6?style=for-the-badge)
-![LoRA/PEFT](https://img.shields.io/badge/LoRA%2FPEFT-7B2FBE?style=for-the-badge)
-![LSTM](https://img.shields.io/badge/LSTM_Autoencoder-EE4C2C?style=for-the-badge)
-![SHAP](https://img.shields.io/badge/SHAP_Explainability-FF6F00?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
 ### 🌌 Aerospace AI & SSA
-![SGP4](https://img.shields.io/badge/SGP4_Propagation-00d4ff?style=for-the-badge)
-![satellite.js](https://img.shields.io/badge/satellite.js-0F172A?style=for-the-badge)
-![Digital Twin](https://img.shields.io/badge/Spacecraft_Digital_Twin-6366f1?style=for-the-badge)
+![SGP4](https://img.shields.io/badge/SGP4_Propagation-6366f1?style=for-the-badge)
+![Foster_Pc](https://img.shields.io/badge/Foster_Pc_Conjunction-6366f1?style=for-the-badge)
+![Digital Twin](https://img.shields.io/badge/Orbital_Digital_Twin-6366f1?style=for-the-badge)
 ![PINN](https://img.shields.io/badge/Physics_Informed_NN-EE4C2C?style=for-the-badge)
 ![Space-Track](https://img.shields.io/badge/Space--Track.org-1E3A5F?style=for-the-badge)
 ![NOAA](https://img.shields.io/badge/NOAA_Space_Weather-0077B5?style=for-the-badge)
 ![NASA NeoWS](https://img.shields.io/badge/NASA_NeoWS-0B3D91?style=for-the-badge)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Cesium](https://img.shields.io/badge/Cesium%2FResium_3D-6AB0DE?style=for-the-badge)
+
+### 🤖 AI / ML / Agents
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)
+![BGE-M3](https://img.shields.io/badge/BGE--M3_Embeddings-6366f1?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0053D6?style=for-the-badge)
+![LoRA/PEFT](https://img.shields.io/badge/LoRA%2FPEFT-7B2FBE?style=for-the-badge)
+![LSTM](https://img.shields.io/badge/LSTM_Autoencoder-EE4C2C?style=for-the-badge)
+![SHAP](https://img.shields.io/badge/SHAP_Explainability-FF6F00?style=for-the-badge)
+
+### 🗄️ Data & Knowledge Graphs
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant_Vector_DB-DC244C?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge)
 
 ### 🚀 Deploy / Infra
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
-### ✈️ Aerospace & Robotics
+### ✈️ Aerospace & Engineering
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![PX4](https://img.shields.io/badge/PX4-0050FF?style=for-the-badge)
 ![MAVLink](https://img.shields.io/badge/MAVLink-0099CC?style=for-the-badge)
@@ -179,18 +268,14 @@ ISS/Starlink/NavIC · Conjunction screening · NOAA space weather · NASA NeoWS 
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-CC0000?style=for-the-badge)
 ![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge)
 
-### 🗄️ Backend & Databases
+### 🔧 Languages & Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🔧 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge)
 
 </div>
 
@@ -200,17 +285,17 @@ ISS/Starlink/NavIC · Conjunction screening · NOAA space weather · NASA NeoWS 
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahin-aeroai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=050d1a&title_color=00d4ff&icon_color=0ea5e9&text_color=7dd3fc" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahin-aeroai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=050d1a&title_color=6366f1&icon_color=6366f1&text_color=7dd3fc" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahin-aeroai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=050d1a&title_color=00d4ff&text_color=7dd3fc" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahin-aeroai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=050d1a&title_color=6366f1&text_color=7dd3fc" height="180"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahin-aeroai&theme=tokyonight&hide_border=true&background=050d1a&ring=00d4ff&fire=0ea5e9&currStreakLabel=00d4ff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahin-aeroai&theme=tokyonight&hide_border=true&background=050d1a&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahin-aeroai&bg_color=050d1a&color=00d4ff&line=0ea5e9&point=00d4ff&area=true&hide_border=true&area_color=071020" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahin-aeroai&bg_color=050d1a&color=6366f1&line=6366f1&point=a5b4fc&area=true&hide_border=true&area_color=071020" />
 
 </div>
 
@@ -230,7 +315,7 @@ ISS/Starlink/NavIC · Conjunction screening · NOAA space weather · NASA NeoWS 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mahin--nandipa.netlify.app-00d4ff?style=for-the-badge)](https://mahin-nandipa.netlify.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mahin--nandipa.netlify.app-6366f1?style=for-the-badge)](https://mahin-nandipa.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahin-nandipa-58189b392)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mahin.nandipa)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mahinnandipa3049)
@@ -240,10 +325,10 @@ ISS/Starlink/NavIC · Conjunction screening · NOAA space weather · NASA NeoWS 
 
 **Open to:** AI/ML Engineering · SSA & Aerospace AI · LLM Applications · Research Collaborations
 
-📧 mahin.nandipa@gmail.com · m.nandipa@icloud.com
+📧 m.nandipa@icloud.com · +91 91004 11119
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071020,40:0d1f3c,70:0a1628,100:050d1a&height=120&section=footer&text=The+sky+is+not+the+limit+%E2%80%94+it%27s+just+the+beginning+%F0%9F%9A%80&fontSize=15&fontColor=00d4ff&fontAlignY=62&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050d1a,40:1a1040,70:0d1028,100:050d1a&height=120&section=footer&text=Converging+orbital+mechanics+%C3%97+AI+%C3%97+knowledge+graphs+%F0%9F%9B%B0%EF%B8%8F&fontSize=15&fontColor=6366f1&fontAlignY=62&animation=fadeIn" />
 
 </div>
