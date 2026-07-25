@@ -321,9 +321,9 @@ ISS/Starlink/NavIC · Conjunction screening · NOAA space weather · NASA NeoWS 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mahin-aeroai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=prs,issues,contribs&bg_color=050d1a&title_color=6366f1&icon_color=6366f1&text_color=7dd3fc" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahin-aeroai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=prs,issues,contribs&bg_color=050d1a&title_color=6366f1&icon_color=6366f1&text_color=7dd3fc" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahin-aeroai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook&bg_color=050d1a&title_color=6366f1&text_color=7dd3fc" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahin-aeroai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook&bg_color=050d1a&title_color=6366f1&text_color=7dd3fc" height="180"/>
 
 <br/><br/>
 
