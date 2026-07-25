@@ -214,7 +214,7 @@ ISS/Starlink/NavIC · Conjunction screening · NOAA space weather · NASA NeoWS 
 ## 🏗️ All Projects
 
 <details open>
-<summary><b>Full project index — 12 projects</b></summary>
+<summary><b>Full project index — 13 projects</b></summary>
 
 <br/>
 
@@ -244,14 +244,11 @@ ISS/Starlink/NavIC · Conjunction screening · NOAA space weather · NASA NeoWS 
 
 | Project | Description | Live | Repo |
 |---------|-------------|------|------|
+| 🏢 **MMDI ONE** | AI-native enterprise platform · Next.js 16 · React 19 · TypeScript · Tailwind v4 · Supabase · 42-component design system with tokenised theming · 31 workspace modules · AI Copilot with 16 grounded tools · bin-packing signage cost estimator · 333-document archive on Cloudflare R2 | [![Live](https://img.shields.io/badge/Live-6366f1?style=flat-square)](https://ekms.vercel.app) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/EKMS) |
 | 🗄️ **AeroIntel DB** | 603-platform India aerospace intelligence database · Wikipedia REST API · offline AI fallback · single-file HTML | [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat-square)](https://mahin-aeroai.github.io/aerointel/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/aerointel) |
 | 📚 **GDPPE** | Global Database of Production Printing Equipment · provenance-first schema — every spec traces to a source fetched in-session · 9 categories, 44 machines, 149 sources, 33 logged conflicts | [![Live](https://img.shields.io/badge/Live-6366f1?style=flat-square)](https://mahin-aeroai.github.io/GDPPE/frontend/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/GDPPE) |
 | 🏭 **AeroLens** | India aerospace ERP · 87 companies · .NET 8 API (60+ endpoints) · Bootstrap 5 · Oracle DDL | [![Live](https://img.shields.io/badge/Live-22C55E?style=flat-square)](https://mahin-aeroai.github.io/AeroLens/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/AeroLens) |
 | 🧾 **SignERP v2** | Single-file browser ERP · soft signage & LED fabrication · costing, quoting, production management | [![Live](https://img.shields.io/badge/Live-F59E0B?style=flat-square)](https://mahin-aeroai.github.io/Costing-ERP/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/Costing-ERP) |
-
-<!-- EKMS row pulled pending a description. To restore, add one line and paste back:
-| 🔐 **EKMS** | YOUR DESCRIPTION HERE · TypeScript | — | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/EKMS) |
--->
 
 </details>
 
