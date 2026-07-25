@@ -228,7 +228,11 @@ ISS/Starlink/NavIC · Conjunction screening · NOAA space weather · NASA NeoWS 
 | Project | Description | Live | Repo |
 |---------|-------------|------|------|
 | 🧠 **CodeGen RAG** | **+34pp CodeBLEU (38% → 72%)** · LoRA r=16 on codegen-350M-multi · FAISS retrieval · IIIT-H PGCP capstone (Group 39) | — | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/CodeGen-) |
-| 🤖 **BI Copilot** | NL → SQL → chart → insight · Schema-aware RAG · +33pp over baseline · FastAPI + Streamlit | — | Private |
+| 🤖 **BI Copilot** | NL → SQL → chart → insight · Schema-aware RAG over table/column metadata · FastAPI + Streamlit | — | Private |
+<!-- BI Copilot metric removed pending specifics. "+33pp over baseline" named no metric, and the
+     repo is private so a reader can't verify it. Restore with the metric named and both endpoints,
+     e.g.:  · **+33pp execution accuracy (55% -> 88%)** ·
+     Use execution accuracy or exact-match for NL->SQL, not CodeBLEU. -->
 
 ### Data Systems & Tooling
 
@@ -236,11 +240,12 @@ ISS/Starlink/NavIC · Conjunction screening · NOAA space weather · NASA NeoWS 
 |---------|-------------|------|------|
 | 🗄️ **AeroIntel DB** | 603-platform India aerospace intelligence database · Wikipedia REST API · offline AI fallback · single-file HTML | [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat-square)](https://mahin-aeroai.github.io/aerointel/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/aerointel) |
 | 📚 **GDPPE** | Global Database of Production Printing Equipment · provenance-first schema — every spec traces to a source fetched in-session · 9 categories, 44 machines, 149 sources, 33 logged conflicts | [![Live](https://img.shields.io/badge/Live-6366f1?style=flat-square)](https://mahin-aeroai.github.io/GDPPE/frontend/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/GDPPE) |
+| 🏭 **AeroLens** | India aerospace ERP · 87 companies · .NET 8 API (60+ endpoints) · Bootstrap 5 · Oracle DDL | [![Live](https://img.shields.io/badge/Live-22C55E?style=flat-square)](https://mahin-aeroai.github.io/AeroLens/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/AeroLens) |
+| 🧾 **SignERP v2** | Single-file browser ERP · soft signage & LED fabrication · costing, quoting, production management | [![Live](https://img.shields.io/badge/Live-F59E0B?style=flat-square)](https://mahin-aeroai.github.io/Costing-ERP/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/Costing-ERP) |
+
 <!-- EKMS row pulled pending a description. To restore, add one line and paste back:
 | 🔐 **EKMS** | YOUR DESCRIPTION HERE · TypeScript | — | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/EKMS) |
 -->
-| 🏭 **AeroLens** | India aerospace ERP · 87 companies · .NET 8 API (60+ endpoints) · Bootstrap 5 · Oracle DDL | [![Live](https://img.shields.io/badge/Live-22C55E?style=flat-square)](https://mahin-aeroai.github.io/AeroLens/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/AeroLens) |
-| 🧾 **SignERP v2** | Single-file browser ERP · soft signage & LED fabrication · costing, quoting, production management | [![Live](https://img.shields.io/badge/Live-F59E0B?style=flat-square)](https://mahin-aeroai.github.io/Costing-ERP/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/Costing-ERP) |
 
 </details>
 
