@@ -27,23 +27,29 @@
 
 ```python
 class MahinNandipa:
-    role        = "AI/ML Engineer × Aerospace Systems"
-    flagship    = "ORBITIQ-X — Aerospace Intelligence Platform"
-    what        = """
-        Vertically integrated reasoning stack for Earth-orbit intelligence.
-        Couples orbital mechanics · knowledge graphs · agentic AI · digital twins.
-        7-layer stack: SGP4 engine -> Neo4j KG -> BGE-M3 RAG -> LangGraph 7-agent system.
-        50,000-object screening capacity · Foster Pc conjunction · Re-entry monitoring.
+    role      = "AI/ML Engineer × Aerospace Systems"
+    flagship  = "ORBITIQ-X — Aerospace Intelligence Platform"
+    what      = """
+        Vertically integrated reasoning stack for Earth orbit.
+        Couples orbital mechanics · knowledge graphs ·
+        agentic AI · digital twins.
+        SGP4 -> Neo4j KG -> BGE-M3 RAG -> LangGraph 7-agent.
+        50K-object screening · Foster Pc · re-entry monitor.
     """
-    education   = ["B.Tech Aerospace Eng · VIT Bhopal · CGPA 8.23",
-                   "PG Cert AI/ML · IIIT Hyderabad × TalentSprint × Accenture"]
-    location    = "Hyderabad, India 🇮🇳"
-    past        = "Acoustic anti-drone detection hardware @ Dautya Aerospace (11 months)"
-    seeking     = ["GenAI / MLOps roles", "Aerospace AI research", "Defense-adjacent autonomy"]
-    focus       = "Converging orbital mechanics + deep learning + agentic AI 🛰️"
-    measured    = ["+34pp CodeBLEU (38% -> 72%) via LoRA r=16 + FAISS retrieval",
-                   "F1=0.984 LSTM autoencoder on spacecraft telemetry",
-                   "50K-object conjunction screener · Foster Pc · 3-layer grounding guard"]
+    education = ["B.Tech Aerospace Eng · VIT Bhopal · CGPA 8.23",
+                 "PG Cert AI/ML · IIIT Hyderabad",
+                 "TalentSprint × Accenture"]
+    location  = "Hyderabad, India 🇮🇳"
+    past      = ["Acoustic anti-drone detection hardware",
+                 "@ Dautya Aerospace (11 months)"]
+    seeking   = ["GenAI / MLOps roles",
+                 "Aerospace AI research",
+                 "Defense-adjacent autonomy"]
+    focus     = "Orbital mechanics + deep learning + agentic AI"
+    measured  = ["+34pp CodeBLEU (38% -> 72%) · LoRA r=16 · FAISS",
+                 "F1=0.984 LSTM autoencoder on telemetry",
+                 "50K-object conjunction screener · Foster Pc",
+                 "3-layer grounding guard (NLI + numeric + flags)"]
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
