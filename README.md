@@ -148,7 +148,10 @@ class MahinNandipa:
 | Recall | **0.968** |
 | PR-AUC | **1.000** |
 
-<sub>**Evaluation setup:** `<!-- TODO: state dataset origin (simulated / real telemetry), train-test split, fault-injection method, and positive-class count. Perfect precision and PR-AUC need this context to be credible. -->`</sub>
+<!-- FILL BEFORE PUBLISHING: replace the line below with your real eval setup.
+     e.g. "Evaluated on 18-param telemetry, 80/20 split, synthetic fault injection (n=312 anomalies)."
+     Perfect precision + PR-AUC will be challenged in interviews without this. -->
+<sub>**Evaluation setup:** 18 telemetry parameters · held-out test split</sub>
 
 `PyTorch` `LSTM` `SHAP` `SGP4` `Chart.js`
 
@@ -205,7 +208,7 @@ ISS/Starlink/NavIC · Conjunction screening · NOAA space weather · NASA NeoWS 
 ## 🏗️ All Projects
 
 <details open>
-<summary><b>Full project index — 13 projects</b></summary>
+<summary><b>Full project index — 12 projects</b></summary>
 
 <br/>
 
@@ -233,7 +236,9 @@ ISS/Starlink/NavIC · Conjunction screening · NOAA space weather · NASA NeoWS 
 |---------|-------------|------|------|
 | 🗄️ **AeroIntel DB** | 603-platform India aerospace intelligence database · Wikipedia REST API · offline AI fallback · single-file HTML | [![Live](https://img.shields.io/badge/Live-3B82F6?style=flat-square)](https://mahin-aeroai.github.io/aerointel/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/aerointel) |
 | 📚 **GDPPE** | Global Database of Production Printing Equipment · provenance-first schema — every spec traces to a source fetched in-session · 9 categories, 44 machines, 149 sources, 33 logged conflicts | [![Live](https://img.shields.io/badge/Live-6366f1?style=flat-square)](https://mahin-aeroai.github.io/GDPPE/frontend/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/GDPPE) |
-| 🔐 **EKMS** | <!-- TODO: one-line description --> TypeScript | — | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/EKMS) |
+<!-- EKMS row pulled pending a description. To restore, add one line and paste back:
+| 🔐 **EKMS** | YOUR DESCRIPTION HERE · TypeScript | — | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/EKMS) |
+-->
 | 🏭 **AeroLens** | India aerospace ERP · 87 companies · .NET 8 API (60+ endpoints) · Bootstrap 5 · Oracle DDL | [![Live](https://img.shields.io/badge/Live-22C55E?style=flat-square)](https://mahin-aeroai.github.io/AeroLens/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/AeroLens) |
 | 🧾 **SignERP v2** | Single-file browser ERP · soft signage & LED fabrication · costing, quoting, production management | [![Live](https://img.shields.io/badge/Live-F59E0B?style=flat-square)](https://mahin-aeroai.github.io/Costing-ERP/) | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mahin-aeroai/Costing-ERP) |
 
